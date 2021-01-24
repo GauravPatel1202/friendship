@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Friendship"
+  "defaultProject": "Friendship",
+  "cli": {
+    "analytics": false
+  }
 }
